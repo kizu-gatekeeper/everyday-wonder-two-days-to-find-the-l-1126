@@ -5,7 +5,7 @@ Writes one sentence (at most 200 characters) to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 import os
 
-LINE = "This morning the elevator mirror showed me yawning half a second before I did, and for once I believed it knew something."
+LINE = "This morning the elevator mirror yawned half a second before I did, and all day I have been politely following its lead."
 MAX_CHARS = 200
 
 
